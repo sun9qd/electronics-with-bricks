@@ -23,7 +23,7 @@ At the beginning, the first project is the "Hello World!" of electronics, a simp
 * MicroUSB cable with charger: For connecting the MicroUSB power supply to a power outlet. A second MicroUSB cable and a second charger are required for the voltmeter module. The latter is important so that the measuring device is potential-free with respect to the circuit.
 * Patch cable: Standard patch cable for connecting the measuring inputs of the voltmeter to the circuit
 
-In the first step, the components are now plugged onto a standard base plate from the toy shop (8mm studded plate), as shown in the following picture:
+In the first step, the components are now plugged onto a standard base plate from the toy store (8mm studded plate, e.g. Lego(R)), as shown in the following picture:
 
 ![Hello World Circuit Structure](img/HelloWorld_CircuitStructure.jpg)
 
@@ -37,6 +37,15 @@ In addition, a voltmeter component can be used to measure the voltages of the ci
 
 ![Hello World Circuit Running](img/HelloWorld_CircuitRunning.jpg)
 
+This repository contains a number of prepared experiments, e.g.:
+
+- Water Level Indicator Analog
+- Flip-Flop
+- Voltmeter
+- 7 Segment Display
+- MP3 Player
+- Power Amplifier ("Black Devil" circuit)
+
 Warning:
 
 The kit presented works with electrical current. Incorrect use, but also faulty components, can cause fires and even people and animals can suffer injuries from electric shocks. For this reason, it may only be used by qualified persons.
@@ -45,5 +54,5 @@ Copyright (c) 2024 sun9qd
 
 The 3D printing templates were created with OpenScad: https://openscad.org/
 
-The circuit board layouts were created with KiCad: https://www.kicad.org/
+The board layouts were created with KiCad: https://www.kicad.org/
 
