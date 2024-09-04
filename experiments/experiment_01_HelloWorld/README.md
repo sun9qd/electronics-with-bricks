@@ -1,7 +1,5 @@
 # Electronics With Bricks: Hello World!
 
-Copyright (c) 2024 sun9qd
-
 At the beginning, the first project is the "Hello World!" of electronics, a simple circuit with power supply, switch and lamp. The following components of the kit are used and presented here:
 
 ![Hello World Components](img/HelloWorld_Components.jpg)
@@ -30,4 +28,5 @@ In addition, a voltmeter component can be used to measure the voltages of the ci
 
 ![Hello World Circuit Running](img/HelloWorld_CircuitRunning.jpg)
 
+Copyright (c) 2024 sun9qd
 

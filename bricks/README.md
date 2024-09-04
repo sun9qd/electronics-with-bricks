@@ -1,7 +1,5 @@
 # Electronics-With-Bricks: Brick Overview
 
-Copyright (c) 2024 sun9qd
-
 The following is an overview of the available building blocks. The list is incomplete and will be supplemented.
 
 | | |
@@ -24,4 +22,13 @@ The following is an overview of the available building blocks. The list is incom
 |![Buzzer](img/Brick_Buzzer.jpg)|**Buzzer**: This component produces a beeping sound when voltage is applied.|
 |![Raspberry Pico](img/Brick_RaspberryPico.jpg)|**Raspberry Pico**: A microcontroller board that is typically programmed from a PC via USB using a separate app with Python. There is a compatible version of the board with WiFi support that can alternatively be fitted into this component.|
 |![D1 mini](img/Brick_D1mini.jpg)|**D1 mini**: A microcontroller board with WiFi support that is typically programmed from a PC using the Arduino development environment in C++.|
+|![DIP-8 Socket](img/Brick_DIP8Socket.jpg)|**DIP-8 Socket**: For the integration of any 8-pin chips.|
+|![Bus Wire](img/Brick_BusWire.jpg)|**Bus Wire**: This double brick can be used to route four connections over a longer distance. This is often a great help with bus connections (I2C bus, SPI bus). However, the component can also be used for other connections, e.g. to connect the supply voltage and ground connection to a remote point in the circuit. There are different versions of the component with different cable lengths.|
+|![BoardConnector](img/Brick_BoardConnector.jpg)|**Board Connector**: Using two of these modules and a suitable 10-pin ribbon cable, you can connect two circuits that are built on two different base plates ("boards").|
+|![7-Segment Display](img/Brick_7SegmentDisplay.jpg)|**7-Segment Display**: Display module for a 7-segment digit with decimal point. The anode (+pole) of the LEDs is connected together, the 8 cathodes are brought out separately.|
+|![IOExpander](img/Brick_IOExpander.jpg)|**MCP23008 - 8-bit IOExpander**: This component provides 8 GPIO ports (General Purpose Input/Output Ports) that can be used by a microcontroller via an i2c bus.|
+|![DigiPot](img/Brick_DigiPot.jpg)|**Digital-Potentiometer ("Digipot")**: This component provides a potentiometer whose wiper position is set by a command from a microcontroller via an SPI bus. There are components with different resistance values; in the picture a type with 10 kOhm is shown.|
+
+
+Copyright (c) 2024 sun9qd
 

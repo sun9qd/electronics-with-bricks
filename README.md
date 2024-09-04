@@ -1,7 +1,5 @@
 # Electronics With Bricks: Hello World!
 
-Copyright (c) 2024 sun9qd
-
 This project presents an electronics kit with which simple analog and digital circuits can be built. The kit is intended for:
 
 1. Learning and training
@@ -59,4 +57,6 @@ The construction kit presented works with electricity. Incorrect use, but also f
 The 3D printing templates were created with OpenScad: https://openscad.org/
 
 The board layouts were created with KiCad: https://www.kicad.org/
+
+Copyright (c) 2024 sun9qd
 

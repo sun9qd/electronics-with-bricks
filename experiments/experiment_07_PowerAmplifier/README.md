@@ -1,5 +1,4 @@
 # Electronics With Bricks: Power Amplifier
-Copyright (c) 2024 sun9qd
 
 This time I'm trying something more challenging. Building a power amplifier with discrete components can cause various problems. For this reason, I use a tried and tested and simple circuit that was published many years ago by Elrad magazine under the name "Black Devil". I found the circuit here:
 
@@ -16,3 +15,5 @@ The circuit:
 In operation, the voltmeter measures the amplifier's center voltage, which should be half the operating voltage:
 
 ![Power Amplifier Running](img/PowerAmplifier_Running.jpg)
+
+Copyright (c) 2024 sun9qd
