@@ -29,6 +29,7 @@ The following is an overview of the available building blocks. The list is incom
 |![7-Segment Display](img/Brick_7SegmentDisplay.jpg)|**7-Segment Display**: Display module for a 7-segment digit with decimal point. The anode (+pole) of the LEDs is connected together, the 8 cathodes are brought out separately.|
 |![IOExpander](img/Brick_IOExpander.jpg)|**MCP23008 - 8-bit IOExpander**: This component provides 8 GPIO ports (General Purpose Input/Output Ports) that can be used by a microcontroller via an i2c bus.|
 |![DigiPot](img/Brick_DigiPot.jpg)|**Digital-Potentiometer ("Digipot")**: This component provides a potentiometer whose wiper position is set by a command from a microcontroller via an SPI bus. There are components with different resistance values; in the picture a type with 10 kOhm is shown.|
+|![Breadboard](img/Brick_Breadboard.jpg)|**Breadboard**: This brick provides a small breadboard. You can set up small circuits or plug in chips or breakout boards (e.g. micro controller boards like D1mini or alike). You can select the breadboard strips you want to use on the brick connectors by connecting them using standard breadboard jumper cables.|
 
 
 Copyright (c) 2024 sun9qd
