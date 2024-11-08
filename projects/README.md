@@ -14,7 +14,7 @@ So I came up with the plan to build a modern radio using the chassis of the old 
 
 To do this, the most of the internal structure of the radio has to be removed and replaced with modern electronics. To test the new electronics, I will first build them using the electronics kit. Later, a circuit board will be designed that can be installed in the radio chassis.
 
-The current state of the project looks likes this:
+The first step of the project looked likes this:
 
 ![WorkRadio2](img/WorkRadio2.jpg)
 
@@ -22,7 +22,23 @@ The new radio functionality is implemented on two breadboard bricks, the first c
 
 ![WorkRadio1](img/WorkRadio1.jpg)
 
-The next steps for me will be to retrieve the settings of the frontplate, mainly the settings for volume and station select. And of course cleaning the inside of the radio.
+In the next step the following improvements were achieved:
+- The old electronic components were removed and the chassis was cleaned
+- The output of the power amplifier is switched by a relais now so the user can select between the internal speaker vs an external speaker box. The  switching is done via the "FANT" key on the front of the radio which was originally used to switch a special radio antenna on and of.
+- The original radio used variable capacitors for station selection. These were replaced by potentiometers in order to produce a voltage corresponding to the currently selected radio station. The potentiometer voltage output is connected to the ADC (analog digital converter) of the MCU and selects from that a radio station out of a predefined list of stations.
+- A preamplifier with two input channels was added. One of the inputs is connected to the microporcessor's music output, i.e. the radio signal. The second input  is used as an AUX entry, where e.g. the headphone output of a computer can be connected. The selection of the active input is done via the front selection key "PHONO" which originally selected an external phono device as input. The electronic component used as input switch is a CD4051B multiplexer chip.
+
+The preamplifier:
+
+![WorkRadio1](img/WorkRadio3.jpg)
+
+The current project state:
+
+![WorkRadio1](img/WorkRadio4.jpg)
+
+The next steps will be:
+- retrieve all settings of the frontplate and forward them via a port expander chip to the MCU
+- adding sound control - bass and treble - to be connected to the corresponding controls on the front panel
 
 The radio project can be found here: (not yet available)
 
