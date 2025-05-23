@@ -1,6 +1,8 @@
 
 #include "Wire.h"
 
+#define DESIGN_VERSION 1
+
 #define GPIO_I2C_ADDR2    D3
 #define GPIO_I2C_ADDR1    D4
 
@@ -54,6 +56,9 @@ void setup()
 
   pinMode( GPIO_I2C_ADDR1, OUTPUT );
   pinMode( GPIO_I2C_ADDR2, OUTPUT );
+  #if DESIGN_VERSION == 2
+  pinMode( D6, INPUT ); // This is our digital input for the push button for the second design version
+  #endif
 
   digitalWrite( GPIO_I2C_ADDR1, LOW );
   digitalWrite( GPIO_I2C_ADDR2, LOW );
@@ -72,10 +77,13 @@ void setup()
 
 void loop()
 {
-
+#if DESIGN_VERSION == 2
+  int nStartDice = digitalRead( D6 );
+  if( nStartDice == 1 )
+#else
   int nStartDice = analogRead( A0 );  // Returns voltage level on A0 pin (0=0Volt, 1024=3.3Volt)
-
   if( nStartDice > 500 )
+#endif
   {
     Serial.printf( "nStartDice=%d\n", nStartDice );
 
