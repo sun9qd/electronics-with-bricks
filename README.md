@@ -14,7 +14,7 @@ The repository is structured as follows:
 
 - **assembly_sets/** contains a number of  experiments with the construction kit (Content of this directory mostly German language)
 - **bricks/** contains an overview of the available bricks
-- **resouces/** contains the resources for reproducing the bricks (STL and Gerber files) (still in preparation)
+- **resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that
 - **sketches/** contains an overview of some additional experiments
 
 Note:
