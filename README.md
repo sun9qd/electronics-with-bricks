@@ -1,6 +1,10 @@
-![Brick Collection](img/Welcome.jpg)
+![Assembly sets](img/Welcome.jpg)
 
 This project presents an electronic construction kit on LEGO®-compatible base plate with numerous analog and digital components. From this various analog and digital circuits can be built.
+
+
+![Brick Collection](img/Welcome2.jpg)
+
 
 
 The kit is intended for:
