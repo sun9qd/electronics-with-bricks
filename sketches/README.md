@@ -1,5 +1,13 @@
 # Electronics With Bricks: Sketches
 
+## Laboratory Power Supply
+
+This small circuit provides the voltage of a laboratory power supply to different plugs. The integrated voltmeter displays the current voltage.
+
+The circuit:
+
+![Lab Power Supply](img/LabPowerSupply.jpg)
+
 ## Flip-Flop
 
 The most striking thing about the flip-flop circuit or "blinking circuit" are two alternately flashing LEDs that are controlled by two coupled timers. The timing components are a resistor and a capacitor, and there is a transistor as a switch and to drive the LEDs.
@@ -8,7 +16,7 @@ The circuit:
 
 ![Flip Flop Circuit](img/FlipFlop_Circuit.jpg)
 
-## Analog water level indicator
+## Analog Water Level Indicator
 
 In this experiment, we build a circuit with which we can measure and display the water level in a water container, e.g. in a water glass or (with a modified sensor) in a rain barrel. The circuit uses analog components in the form of four npn transistors. The water level is displayed using LEDs.
 
@@ -58,7 +66,7 @@ The measured voltage is displayed on a small graphic display that is connected t
 
 ![Voltmeter](img/Voltmeter_Running.jpg)
 
-## MP3 player
+## MP3 Player
 
 In this experiment an integrated MP3 player is used that provides a direct loudspeaker output. The circuit is limited to controlling this component using a series of buttons and connecting a miniature loudspeaker.
 
@@ -72,7 +80,7 @@ This time I'm trying something more sophisticated. Building a power amplifier wi
 
 [https://www.diyaudio.com/community/attachments/black-devil-ii-pdf.146280/](https://www.diyaudio.com/community/attachments/black-devil-ii-pdf.146280/)
 
-The result is impressive. Despite the weak power supply (2 USB chargers PD with 20 volts/30 watts each) and despite the small heat sinks, the amplifier delivers clear sound and powerful bass on my 100 watt bass reflex box. You just have to be careful with the heating of the power amplifier transistors, so don't turn the volume up too high!
+The result is impressive. Despite the weak power supply (2 USB chargers PD with 20 volts/30 watts each) and despite the small heat sinks, the amplifier delivers clear sound and powerful bass on a 100 watt bass reflex box. You just have to be careful with the heating of the power amplifier transistors, so don't turn the volume up too high!
 
 As usual, the yellow line components are used for the operating voltage, the green ones for the ground line.
 
