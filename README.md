@@ -13,6 +13,13 @@ The kit is intended for:
 2. Evaluation of electronic components
 3. Development of electronic circuits
 
+Compared to using a breadboard, there are two advantages.
+
+1. **The circuit layout looks like a photograph of the circuit diagram.**
+The wires can be freely routed in two dimensions, whereas on a breadboard, one direction is restricted by the fixed internal wiring.
+
+2. **A top-down photograph provides complete documentation of the circuit.**
+Unlike a breadboard, all components and connections are labeled. The tangle of wires is replaced by clearly identifiable jumper connectors.
 
 The repository is structured as follows:
 
