@@ -12,6 +12,7 @@ The kit is intended for:
 1. Learning and training
 2. Evaluation of electronic components
 3. Development of electronic circuits
+4. Documentation and presentation of technical systems
 
 Compared to using a breadboard, there are two advantages.
 
@@ -23,16 +24,18 @@ Unlike a breadboard, all components and connections are labeled. The tangle of w
 
 The repository is structured as follows:
 
-- **assembly_sets/** contains a number of  experiments with the construction kit (Content of this directory mostly German language)
-- **bricks/** contains an overview of the available bricks
-- **resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that
-- **sketches/** contains an overview of some additional experiments
+- **1_overview/** contains an overview of experiments
+- **2_bricks/** contains an overview of the available bricks
+- **3_projects/** contains a number of  projects with the construction kit
+- **4_sets/** contains a number of assembly sets of the construction kit (Content of this directory mostly German language)
+- **5_resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that
+- **img/** contains images for driving this web side
 
 Note:
 
 LEGO® is a trademark of the LEGO Group. This project is not sponsored, approved or supported by the LEGO Group.
 
-**Warning: The construction kit presented works with electricity. Incorrect use, but also faulty components, can cause fires and even people and animals can suffer injuries from electric shocks. For this reason, it may only be used by qualified persons.**
+**Warning: The construction kit presented works with electricity. Incorrect use, but also faulty components or circuits, can cause fires and even people and animals can suffer injuries from electric shocks. For this reason, it may only be used by qualified persons.**
 
 The 3D printing templates were created with OpenScad: https://openscad.org/
 
@@ -40,5 +43,5 @@ The board layouts were created with KiCad: https://www.kicad.org/
 
 Some of the description text has been translated with the help of google translator: https://translate.google.com/
 
-Copyright (c) 2024-2025 sun9qd
+Copyright (c) 2024-2026 sun9qd
 
