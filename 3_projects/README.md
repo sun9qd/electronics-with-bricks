@@ -18,9 +18,13 @@ The first step of the project looked likes this:
 
 ![WorkRadio2](img/WorkRadio2.jpg)
 
-The new radio functionality is implemented on two breadboard bricks, the first carries a D1 mini mcu, the second carries a VS1053 mp3 module. The software of the mcu is based on Edzelf's internet radio solution. The audio signal is then forwarded to a "black devil" power amplifier, also built using bricks. The output of the power amplifer is connected to the main load speaker of the old radio. The two tweeters are connected through a 2.2 uF capacitor, because they are electro static type which require approx. 250V DC (created on a small extra board from the original trafo output voltage). And it works!
+The new radio functionality is implemented on two breadboard bricks, the first carries a D1 mini mcu, the second carries a VS1053 mp3 module. The software of the mcu is based on Edzelf's internet radio solution  (found at www.github.com/Edzelf/Esp-radio). The audio signal is then forwarded to a "black devil" power amplifier (found at www.diyaudio.com/community/attachments/black-devil-ii-pdf.146280), also built using bricks. The output of the power amplifer is connected to the main load speaker of the old radio. The two tweeters are connected through a 2.2 uF capacitor, because they are electro static type which require approx. 250V DC (created on a small extra board from the original trafo output voltage). And it works!
 
 ![WorkRadio1](img/WorkRadio1.jpg)
+
+The radio implementation on two breadboard bricks (improved by station select and I2C display):
+
+![RadioBreadboard](img/RadioBreadboard.jpg)
 
 In the next step the following improvements were achieved:
 - The old electronic components were removed and the chassis was cleaned
@@ -30,15 +34,19 @@ In the next step the following improvements were achieved:
 
 The preamplifier (*):
 
-![WorkRadio1](img/WorkRadio3.jpg)
+![WorkRadio3](img/WorkRadio3.jpg)
 
 Intermediate project state:
 
-![WorkRadio1](img/WorkRadio4.jpg)
+![WorkRadio4](img/WorkRadio4.jpg)
 
 The sound control functionality is still missing at this point, so that now a sound control board with bass and treble control is added (*).
 
 Additionally the microcontroller/soundcard part of the circuit was integrated on a single board and incapsulated into a new brick. Also the old 64x64 i2c display (for displaying the selected radio station) was replaced by a 128x64 type.
+
+The newly created radio brick:
+
+![RadioBrick](img/RadioBrick.jpg)
 
 Overview picture of the project with external loudspeaker on the left:
 
