@@ -92,6 +92,15 @@ In operation, the voltmeter measures the center voltage of the amplifier, which 
 
 ![Power Amplifier Running](img/PowerAmplifier_Running.jpg)
 
-Copyright (c) 2024 sun9qd
+## Remote Control
+
+A small remote control for controlling devices via Wi-Fi, built on a 14x6 baseplate. The device connects to a Wi-Fi access point, which is typically provided by a separate construction kit project. Every button press is transmitted, and the remote-controlled project can respond to it.
+
+![Remote Control](img/RemoteControl.jpg)
+
+
+
+
+Copyright (c) 2024-2026 sun9qd
 
 
