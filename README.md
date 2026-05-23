@@ -2,10 +2,9 @@
 
 This project presents an electronic construction kit on LEGO®-compatible base plate with numerous analog and digital components. From this various analog and digital circuits can be built.
 
+The latest project built with the construction kit: A remotely controlled MP3 player
 
-![Brick Collection](img/Welcome2.jpg)
-
-
+![Latest project](1_overview/img/RC_MP3Player.jpg)
 
 The kit is intended for:
 
@@ -30,6 +29,9 @@ The repository is structured as follows:
 - **4_sets/** contains a number of assembly sets of the construction kit (Content of this directory mostly German language)
 - **5_resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that
 - **img/** contains images for driving this web side
+
+
+
 
 Note:
 

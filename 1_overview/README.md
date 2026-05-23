@@ -94,10 +94,13 @@ In operation, the voltmeter measures the center voltage of the amplifier, which 
 
 ## Remote Control
 
-A small remote control for controlling devices via Wi-Fi, built on a 14x6 baseplate. The device connects to a Wi-Fi access point, which is typically provided by a separate construction kit project. Every button press is transmitted, and the remote-controlled project can respond to it.
+A small remote control for controlling devices via Wi-Fi, built on a 14x6 baseplate. The device connects to a Wi-Fi access point, which is typically provided by a separate construction kit project. Every button press is transmitted, and the remote-controlled project can react in a suitable way to it.
 
 ![Remote Control](img/RemoteControl.jpg)
 
+As an application example, a remotely controlled variant of the MP3 player project is now available. The resistor array used to control the player has been replaced by a 100 kΩ SPI digital potentiometer. The function of the buttons is handled by a transistor. The components are driven by a D1 mini microcontroller, which receives its commands via Wi-Fi from the handheld unit of the remote control.
+
+![RC MP3 Player](img/RC_MP3Player.jpg)
 
 
 
