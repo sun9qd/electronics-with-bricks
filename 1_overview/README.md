@@ -98,7 +98,9 @@ A small remote control for controlling devices via Wi-Fi, built on a 14x6 basepl
 
 ![Remote Control](img/RemoteControl.jpg)
 
-As an application example, a remotely controlled variant of the MP3 player project is now available. The resistor array used to control the player has been replaced by a 100 kΩ SPI digital potentiometer. The function of the buttons is handled by a transistor. The components are driven by a D1 mini microcontroller, which receives its commands via Wi-Fi from the handheld unit of the remote control.
+As an application example, a remotely controlled variant of the MP3 player project is now available. The up/down keys on the handheld unit control volume in this project, the left/right keys are used to select the song.
+
+The resistor array used to control the player has been replaced by a 100 kΩ SPI digital potentiometer. The function of the buttons is handled by a transistor. The components are driven by a D1 mini microcontroller, which receives its commands via Wi-Fi from the handheld unit of the remote control.
 
 ![RC MP3 Player](img/RC_MP3Player.jpg)
 

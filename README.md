@@ -2,7 +2,7 @@
 
 This project presents an electronic construction kit on LEGO®-compatible base plate with numerous analog and digital components. From this various analog and digital circuits can be built.
 
-The latest project built with the construction kit: A remotely controlled MP3 player
+*The latest project built with the construction kit:* A remotely controlled MP3 player, details can be found on the 1_overview page.
 
 ![Latest project](1_overview/img/RC_MP3Player.jpg)
 
@@ -11,15 +11,15 @@ The kit is intended for:
 1. Learning and training
 2. Evaluation of electronic components
 3. Development of electronic circuits
-4. Documentation and presentation of technical systems
+4. Presentation of technical systems
 
 Compared to using a breadboard, there are two advantages.
 
-1. **The circuit layout looks like a photograph of the circuit diagram.**
-The wires can be freely routed in two dimensions, whereas on a breadboard, one direction is restricted by the fixed internal wiring.
+1. *Circuit layout  like a photograph of the circuit diagram.*
+The wires can be freely routed in two dimensions, whereas on a breadboard, one direction is restricted by the fixed internal wiring. Components and connections are labeled. The tangle of wires is replaced by clearly identifiable jumper connectors.
 
-2. **A top-down photograph provides complete documentation of the circuit.**
-Unlike a breadboard, all components and connections are labeled. The tangle of wires is replaced by clearly identifiable jumper connectors.
+2. *Robust construction—almost like a manufactured circuit board.*
+The components hold firmly to the baseplate, and the jumper connections establish reliable electrical contact. No exposed wires posing a short-circuit risk. 
 
 The repository is structured as follows:
 
