@@ -13,13 +13,16 @@ The kit is intended for:
 3. Development of electronic circuits
 4. Presentation of technical systems
 
-Compared to using a breadboard, there are two advantages.
+Compared to using a breadboard, there are some advantages.
 
 1. *Circuit layout  like a photograph of the circuit diagram.*
 The wires can be freely routed in two dimensions, whereas on a breadboard, one direction is restricted by the fixed internal wiring. Components and connections are labeled. The tangle of wires is replaced by clearly identifiable jumper connectors.
 
 2. *Robust construction—almost like a manufactured circuit board.*
 The components hold firmly to the baseplate, and the jumper connections establish reliable electrical contact. No exposed wires posing a short-circuit risk. 
+
+3. *It’s really fun working with it.*
+Finding the best way to lay out the circuit on the base plate. It feels like an amazing, addictive game of skill.
 
 The repository is structured as follows:
 
