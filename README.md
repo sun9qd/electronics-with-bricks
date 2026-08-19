@@ -2,9 +2,9 @@
 
 This project presents an electronic construction kit on LEGO®-compatible base plate with numerous analog and digital components. From this various analog and digital circuits can be built.
 
-*The latest project built with the construction kit:* A remotely controlled MP3 player, details can be found on the 1_overview page.
+*The latest project built with the construction kit:* A remote-controlled robot car featuring two stacked electronic boards and plenty of space for additional sensor electronics. Details on the assembly will follow shortly.
 
-![Latest project](1_overview/img/RC_MP3Player.jpg)
+![Latest project](1_overview/img/RC_RobotCar.jpg)
 
 The kit is intended for:
 
