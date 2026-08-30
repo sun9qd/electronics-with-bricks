@@ -1,6 +1,6 @@
 ![Assembly sets](img/Welcome.jpg)
 
-This project presents an electronic construction kit on LEGO®-compatible base plate with numerous analog and digital components. From this various analog and digital circuits can be built.
+This project presents an electronic construction kit on 8 mm studded base panel, compatible with standard systems, supporting numerous analog and digital components. From this various analog and digital circuits can be built.
 
 *The latest project built with the construction kit:* A remote-controlled robot car featuring two stacked electronic boards and plenty of space for additional sensor electronics. Details on the assembly will follow shortly.
 
