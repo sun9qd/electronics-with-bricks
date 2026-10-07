@@ -1,10 +1,14 @@
-![Assembly sets](img/Welcome.jpg)
+![Assembly sets](Resources/img/HeaderLine.jpg)
+
+
+
+![Assembly sets](Resources/img/Welcome.jpg)
 
 This project presents an electronic construction kit on 8 mm studded base panel, compatible with standard systems, supporting numerous analog and digital components. From this various analog and digital circuits can be built.
 
-*The latest project built with the construction kit:* A remote-controlled robot car featuring two stacked electronic boards and plenty of space for additional sensor electronics. Details on the assembly will follow shortly.
+*The latest project built with the construction kit:* A remote-controlled robot car featuring two stacked electronic boards and plenty of space for additional sensor electronics. The picture below shows an assembly with an older brick version.
 
-![Latest project](1_overview/img/RC_RobotCar.jpg)
+![Latest project](Resources/img/RC_RobotCar.jpg)
 
 The kit is intended for:
 
@@ -26,12 +30,12 @@ Finding the best way to lay out the circuit on the base plate. It feels like an 
 
 The repository is structured as follows:
 
-- **1_overview/** contains an overview of experiments
-- **2_bricks/** contains an overview of the available bricks
-- **3_projects/** contains a number of  projects with the construction kit
-- **4_sets/** contains a number of assembly sets of the construction kit (Content of this directory mostly German language)
-- **5_resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that
-- **img/** contains images for driving this web side
+- **Applications/** contains a number of experiments built with the kit
+- **Bricks/** contains an overview of the available bricks
+- **Bundles/** presents several construction kits with varying assortments of building blocks
+- **OldApplications/** contains applications with previous version of the kit
+- **OldBundles/** contains bundles with previous version of the kit
+- **Resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that (coming soon)
 
 
 
@@ -40,7 +44,7 @@ Note:
 
 LEGO® is a trademark of the LEGO Group. This project is not sponsored, approved or supported by the LEGO Group.
 
-**Warning: The construction kit presented works with electricity. Incorrect use, but also faulty components or circuits, can cause fires and even people and animals can suffer injuries from electric shocks. For this reason, it may only be used by qualified persons.**
+**Warning: The construction kit presented works with electricity. Incorrect use, but also faulty components or circuits, can cause fires and even people and animals can suffer injuries from electric shocks. For this reason, it may only be used by qualified persons. Operation is at your own risk. No liability is assumed for damage resulting from improper assembly or operation.**
 
 The 3D printing templates were created with OpenScad: https://openscad.org/
 
