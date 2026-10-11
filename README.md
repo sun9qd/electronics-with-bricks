@@ -32,7 +32,7 @@ The repository is structured as follows:
 
 - **Applications/** contains a number of experiments built with the kit
 - **Bricks/** contains an overview of the available bricks
-- **Bundles/** presents several construction kits with varying assortments of building blocks
+- **Kits/** presents several construction kits with varying assortments of building blocks
 - **OldApplications/** contains applications with previous version of the kit
 - **OldBundles/** contains bundles with previous version of the kit
 - **Resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that (coming soon)
