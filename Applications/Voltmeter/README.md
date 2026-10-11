@@ -8,6 +8,7 @@ The voltage is measured with an ADC (analog-digital converter) that is built int
 
 The measured voltage is displayed on a small graphic display that is connected to the microcontroller via i2c.
 
+*Measuring the supply voltage of a second circuit:*
 
 ![Voltmeter](img/Voltmeter.jpg)
 
