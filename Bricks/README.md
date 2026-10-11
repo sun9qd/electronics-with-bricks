@@ -35,11 +35,11 @@ The following is an overview of the available building blocks. The list may be i
 |![Brick_4x1_SolderingSupport](img/Brick_4x1_SolderingSupport.jpg)|**Brick_4x1_SolderingSupport**:|Support tool for soldering the connector pins of the bricks. The following variants are available: 3x1, 4x1, 6x1, 8x1.|
 |![Brick_4x2_UniversalConnector](img/Brick_4x2_UniversalConnector.jpg)|**Brick_4x2_UniversalConnector**:|Universal connector 4x1 to be populated by customer.|
 |![Brick_4x2_USBPowerSupply](img/Brick_4x2_USBPowerSupply.jpg)|**Brick_4x2_USBPowerSupply**:|MicroUSB power supply. This brick contains a MicroUSB socket and loops out the 5V USB supply voltage. This brick can be used to power your circuit from a USB charger.|
-|![Brick_4x2_USBTypVertical](img/Brick_4x2_USBTypVertical.jpg)|**Brick_4x2_USBTypVertical**:|USB type A connector. The brick loops out the 5V supply voltage.|
+|![Brick_4x2_USBTypeA_vert](img/Brick_4x2_USBTypeA_vert.jpg)|**Brick_4x2_USBTypeA_vert**:|USB type A connector. The brick loops out the 5V supply voltage.|
 |![Brick_4x3_ADC_MCP3002](img/Brick_4x3_ADC_MCP3002.jpg)|**Brick_4x3_ADC_MCP3002**:|2 channel SPI analog digital converter.|
 |![Brick_4x3_AudioAmp_LM386](img/Brick_4x3_AudioAmp_LM386.jpg)|**Brick_4x3_AudioAmp_LM386**:|Integrated  audio power amplifier for low power applications.|
 |![Brick_4x3_DAC_MCP4921](img/Brick_4x3_DAC_MCP4921.jpg)|**Brick_4x3_DAC_MCP4921**:|1 channel DAC, SPI interface.|
-|![Brick_4x3_Digipot_100K_MCP4151](img/Brick_4x3_Digipot_100K_MCP4151.jpg)|**Brick_4x3_Digipot_100K_MCP4151**:|Digital potentiometer MCP4151-104, 100KOhm, SPI interface. The following variant are available: 10K, 100K.|
+|![Brick_4x3_Digipot_100K_MCP4151](img/Brick_4x3_Digipot_100K_MCP4151.jpg)|**Brick_4x3_Digipot_100K_MCP4151**:|Digital potentiometer MCP4151-104, 100KOhm, SPI interface. The following variants are available: 10K, 100K.|
 |![Brick_4x3_DIP_8](img/Brick_4x3_DIP_8.jpg)|**Brick_4x3_DIP_8**:|A brick with a DIP-8 socket to be populated by the customer. The "T"-connectors provide a crossing lane below the socket.|
 |![Brick_4x3_OpAmp_LM358](img/Brick_4x3_OpAmp_LM358.jpg)|**Brick_4x3_OpAmp_LM358**:|OpAmp LM358 provides two operational amplifiers.|
 |![Brick_4x3_Relay_5V_HJR_4102E](img/Brick_4x3_Relay_5V_HJR_4102E.jpg)|**Brick_4x3_Relay_5V_HJR_4102E**:|Relay HJR 4102E, 5V type.|
@@ -55,7 +55,7 @@ The following is an overview of the available building blocks. The list may be i
 |![Brick_7x3_HexInverter_CD74HCT](img/Brick_7x3_HexInverter_CD74HCT.jpg)|**Brick_7x3_HexInverter_CD74HCT**:|HexInverter and schmitt trigger CD74HCT.|
 |![Brick_8x3_ADC_MCP3008](img/Brick_8x3_ADC_MCP3008.jpg)|**Brick_8x3_ADC_MCP3008**:|8-channel ADC MCP3008, SPI interface.|
 |![Brick_8x3_DIP_16](img/Brick_8x3_DIP_16.jpg)|**Brick_8x3_DIP_16**:|DIP-16 chip socket to be populated by the customer.|
-|![Brick_8x3_Multiplexer_CD4051B](img/Brick_8x3_Multiplexer_CD4051B.jpg)|**Brick_8x3_Multiplexer_CD4051B**:|8-channel multiplexer.|
+|![Brick_8x3_Multiplexer_CD4051B](img/Brick_8x3_Multiplexer_CD4051B.jpg)|**Brick_8x3_Multiplexer_CD4051B**:|8-channel multiplexer. This module can be used as a switch to select between eight signals.|
 |![Brick_8x8_Breadboard](img/Brick_8x8_Breadboard.jpg)|**Brick_8x8_Breadboard**:|This brick provides a small breadboard. You can set up small circuits or plug in chips or breakout boards (e.g. micro controller boards like D1mini or alike). You can select the breadboard strips you want to use on the brick connectors by connecting them to the female sockets (black colored on two sides of the brick in the picture) using standard breadboard jumper cables.|
 |![Brick_9x3_DIP_18](img/Brick_9x3_DIP_18.jpg)|**Brick_9x3_DIP_18**:|DIP-18 chip socket to be populated by the customer.|
 |![Brick_9x3_PortExpander_MCP23008](img/Brick_9x3_PortExpander_MCP23008.jpg)|**Brick_9x3_PortExpander_MCP23008**:|8-channel port expander, I2C interface.|
