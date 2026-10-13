@@ -52,7 +52,7 @@ The following is an overview of the available building blocks. The list may be i
 |![Brick_6x5_D1mini](img/Brick_6x5_D1mini.jpg)|**Brick_6x5_D1mini**:|D1mini microcontroller board with WiFi support.|
 |![Brick_6x5_DFPlayer](img/Brick_6x5_DFPlayer.jpg)|**Brick_6x5_DFPlayer**:|DFPlayer MP3 player.|
 |![Brick_7x3_DIP_14](img/Brick_7x3_DIP_14.jpg)|**Brick_7x3_DIP_14**:|DIP-14 chip socket to be populated by the customer.|
-|![Brick_7x3_HexInverter_CD74HCT](img/Brick_7x3_HexInverter_CD74HCT.jpg)|**Brick_7x3_HexInverter_CD74HCT**:|HexInverter and schmitt trigger CD74HCT.|
+|![Brick_7x3_HexInverter_CD74HCT](img/Brick_7x3_HexInverter_CD74HCT.jpg)|**Brick_7x3_HexInverter_CD74HCT**:|HexInverter and Schmitt trigger CD74HCT.|
 |![Brick_8x3_ADC_MCP3008](img/Brick_8x3_ADC_MCP3008.jpg)|**Brick_8x3_ADC_MCP3008**:|8-channel ADC MCP3008, SPI interface.|
 |![Brick_8x3_DIP_16](img/Brick_8x3_DIP_16.jpg)|**Brick_8x3_DIP_16**:|DIP-16 chip socket to be populated by the customer.|
 |![Brick_8x3_Multiplexer_CD4051B](img/Brick_8x3_Multiplexer_CD4051B.jpg)|**Brick_8x3_Multiplexer_CD4051B**:|8-channel multiplexer. This module can be used as a switch to select between eight signals.|

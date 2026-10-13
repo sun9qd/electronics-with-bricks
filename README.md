@@ -44,7 +44,7 @@ Note:
 
 LEGO® is a trademark of the LEGO Group. This project is not sponsored, approved or supported by the LEGO Group.
 
-**Warning: The construction kit presented works with electricity. Incorrect use, but also faulty components or circuits, can cause fires and even people and animals can suffer injuries from electric shocks. For this reason, it may only be used by qualified persons. Operation is at your own risk. No liability is assumed for damage resulting from improper assembly or operation.**
+**Warning: The construction kit presented works with electricity. Incorrect use, but also faulty components or circuits, can cause fires and even people and animals can suffer injuries from electric shocks. For this reason, it may only be used by qualified persons. To avoid hearing damage, headphones or in-ear monitors should not be used with this kit. Operation is at your own risk. No liability is assumed for damage resulting from improper assembly or operation.**
 
 The 3D printing templates were created with OpenScad: https://openscad.org/
 
