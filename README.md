@@ -1,14 +1,18 @@
 ![Assembly sets](Resources/img/HeaderLine.jpg)
 
-
-
 ![Assembly sets](Resources/img/Welcome.jpg)
 
+---
+
 This project presents an electronic construction kit on 8 mm studded base panel, compatible with standard systems, supporting numerous analog and digital components. From this various analog and digital circuits can be built.
+
+---
 
 *The latest project built with the construction kit:* A remote-controlled robot car featuring two stacked electronic boards and plenty of space for additional sensor electronics. The picture below shows an assembly with an older brick version.
 
 ![Latest project](Resources/img/RC_RobotCar.jpg)
+
+---
 
 The kit is intended for:
 
@@ -28,6 +32,8 @@ The components hold firmly to the baseplate, and the jumper connections establis
 3. *It’s really fun working with it.*
 Finding the best way to lay out the circuit on the base plate. It feels like an amazing, addictive game of skill.
 
+---
+
 The repository is structured as follows:
 
 - **Applications/** contains a number of experiments built with the kit
@@ -37,8 +43,38 @@ The repository is structured as follows:
 - **OldBundles/** contains bundles with previous version of the kit
 - **Resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that (coming soon)
 
+---
 
+## ⚖️ License & Community Guidelines
 
+This project uses a dual-licensing model to balance open-source collaboration with commercial sustainability:
+* 💻 **Software / Firmware:** Licensed under the highly permissive **MIT License** (feel free to use, modify, and integrate the code anywhere).
+* 🛠️ **Hardware (STL, Gerber, CAD):** Licensed under **CC BY-NC-SA 4.0** (Attribution-NonCommercial-ShareAlike).
+
+---
+
+### 💚 Maker & Community Fair-Use Policy
+We love the Maker community and want you to build, share, and improve this project! To clear up the legal gray areas of the "Non-Commercial" (NC) clause, **we explicitly permit and encourage** the following activities:
+
+* 🎥 **Content Creation:** You are fully allowed to feature this project in monetized YouTube videos, Twitch streams, TikToks, or personal blogs. 
+* 🏫 **Education & Labs:** Schools, universities, Hackerspaces, and FabLabs are explicitly allowed to print the parts and produce the PCBs for educational purposes, workshops, or members (even if a small fee is charged to cover pure material/machine costs).
+* 🔧 **Personal Modifications:** You can remix and modify the hardware for your personal use. If you publish your remix, just remember it must also be shared under CC BY-NC-SA.
+
+---
+
+### 🚫 What is NOT Allowed?
+* **Selling Kits or Assembled Units:** You may not manufacture, package, and sell physical DIY kits or fully pre-assembled units of this project on platforms like Etsy, eBay, Tindie, or your own webshop.
+* **Commercial Derivatives:** You may not modify the hardware designs and sell the resulting product commercially.
+
+*Note: As the original author, I retain the exclusive rights to offer official DIY kits and pre-assembled products in the future. If you plan a commercial project based on this work, please reach out for commercial licensing options.*
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Before submitting a Pull Request, please read our [Contribution Guidelines](CONTRIBUTING.md) to understand our development workflow and licensing agreements regarding community code and hardware modifications.
+
+---
 
 Note:
 
