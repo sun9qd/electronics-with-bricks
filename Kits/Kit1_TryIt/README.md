@@ -18,15 +18,13 @@ The TryIt! Kit is a very simple starter construction set comprising just five co
 
 ![Kit_TryIt](img/Kit_TryIt_Parts.jpg)
 
+---
 
-The DIY-downloads for reproduction can be found at
-| | |
-|:---------|:------------------------------------|
-|PCB:      |Resources/gbr/board_Kit_TryIt.gbr.zip|
-|3D-Parts: |Resources/stl/Kit_TryIt.stl|
+The bill of materials for reproduction of this kit (including references to the DIY-downloads) can be found at
 
-The 3D-Parts were printed with transparent PETG.
+Resources/bom/bom_Kit_TryIt.
 
+---
 
 Copyright (c) 2024-2026 sun9qd
 
