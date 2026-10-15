@@ -1,8 +1,4 @@
-# Electronics With Bricks: Kits
-
-The electronics construction kit is available in several expansion stages, which are presented here.
-
-## Try It!
+# Electronics With Bricks: Kit TryIt!
 
 The TryIt! Kit is a very simple starter construction set comprising just five components, designed to introduce the modular building concept. It also serves as a simple, affordable option for trying out the assembly process before tackling larger projects.
 
@@ -22,7 +18,7 @@ The TryIt! Kit is a very simple starter construction set comprising just five co
 
 The bill of materials for reproduction of this kit (including references to the DIY-downloads) can be found at
 
-Resources/bom/bom_Kit_TryIt.
+[Resources/bom/bom_Kit_TryIt](../../Resources/bom/bom_Kit_TryIt/README.md)
 
 ---
 
