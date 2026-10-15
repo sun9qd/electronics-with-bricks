@@ -9,7 +9,7 @@ The following is an overview of the available building blocks. The list may be i
 |![Brick_2x1_LineVCC](img/Brick_2x1_LineVCC.jpg)|**Brick_2x1_LineVCC**:|A piece of wire used to lay VCC (the positive pole of supply voltage). Available variants: label "GND" for ground, label "VCC" for supply voltage, no label for signals and for the general case.|
 |![Brick_2x2_Crossing](img/Brick_2x2_Crossing.jpg)|**Brick_2x2_Crossing**:|This brick allows to cross two wires without them having electrical contact.|
 |![Brick_3x1_Capacitor_ce_50n](img/Brick_3x1_Capacitor_ce_50n.jpg)|**Brick_3x1_Capacitor_ce_50n**:|Ceramic disk capacitor 50 nF, min. 63V.|
-|![Brick_3x1_Capacitor_el_100u16](img/Brick_3x1_Capacitor_el_100u16.jpg)|**Brick_3x1_Capacitor_el_100u16**:|Electrolytic capacitor 100uF/16V. Available variants of this brick: 22uF/16V, 100uF/16V, 220uF/16V.|
+|![Brick_3x1_Capacitor_el_100u16](img/Brick_3x1_Capacitor_el_100u16.jpg)|**Brick_3x1_Capacitor_el_100u16**:|Electrolytic capacitor 100uF/16V. Available variants of this brick: 10uF/63V, 22uF/16V, 100uF/16V, 220uF/16V.|
 |![Brick_3x1_Connector_JSTXH_2x1](img/Brick_3x1_Connector_JSTXH_2x1.jpg)|**Brick_3x1_Connector_JSTXH_2x1**:|Standard connector JST XH 2x1.|
 |![Brick_3x1_Crossing](img/Brick_3x1_Crossing.jpg)|**Brick_3x1_Crossing**:|A second brick for crossing two lines without them having electrical contact to each other.|
 |![Brick_3x1_Diode_BAT16](img/Brick_3x1_Diode_BAT16.jpg)|**Brick_3x1_Diode_BAT16**:|Universal low power diode BAT16.|

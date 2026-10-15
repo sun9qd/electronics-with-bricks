@@ -8,9 +8,11 @@ This project presents an electronic construction kit on 8 mm studded base panel,
 
 ---
 
-*The latest project built with the construction kit:* A remote-controlled robot car featuring two stacked electronic boards and plenty of space for additional sensor electronics. The picture below shows an assembly with an older brick version.
+*The latest project built with the construction kit:*
 
-![Latest project](Resources/img/RC_RobotCar.jpg)
+A miniature amplifier circuit using the LM386 integrated power amplifier, in accordance with the recommendations in the product datasheet.
+
+![Latest project](Applications/Amplifier_LM386/img/Amplifier_LM386_Operation.jpg)
 
 ---
 
