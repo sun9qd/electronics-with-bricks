@@ -3,8 +3,8 @@
 The following is an overview of the available building blocks. The list may be incomplete and will be supplemented from time to time.
 
 
-| | | |
-|:-----------------------------|:---------------------------|:-----------------------------------------|
+| Image | Name | Description  |
+| :--- | :--- | :--- |
 |![Brick_1x1_Line](img/Brick_1x1_Line.jpg)|**Brick_1x1_Line**:|A piece of wire used to lay signal wires. Available variants: label "G" for ground, label "V" for supply voltage, no label for signals and for the general case.|
 |![Brick_2x1_LineVCC](img/Brick_2x1_LineVCC.jpg)|**Brick_2x1_LineVCC**:|A piece of wire used to lay VCC (the positive pole of supply voltage). Available variants: label "GND" for ground, label "VCC" for supply voltage, no label for signals and for the general case.|
 |![Brick_2x2_Crossing](img/Brick_2x2_Crossing.jpg)|**Brick_2x2_Crossing**:|This brick allows to cross two wires without them having electrical contact.|
@@ -40,7 +40,6 @@ The following is an overview of the available building blocks. The list may be i
 |![Brick_4x3_AudioAmp_LM386](img/Brick_4x3_AudioAmp_LM386.jpg)|**Brick_4x3_AudioAmp_LM386**:|Integrated  audio power amplifier for low power applications.|
 |![Brick_4x3_DAC_MCP4921](img/Brick_4x3_DAC_MCP4921.jpg)|**Brick_4x3_DAC_MCP4921**:|1 channel DAC, SPI interface.|
 |![Brick_4x3_Digipot_100K_MCP4151](img/Brick_4x3_Digipot_100K_MCP4151.jpg)|**Brick_4x3_Digipot_100K_MCP4151**:|Digital potentiometer MCP4151-104, 100KOhm, SPI interface. The following variants are available: 10K, 100K.|
-|![Brick_4x3_DIP_8](img/Brick_4x3_DIP_8.jpg)|**Brick_4x3_DIP_8**:|A brick with a DIP-8 socket to be populated by the customer. The "T"-connectors provide a crossing lane below the socket.|
 |![Brick_4x3_OpAmp_LM358](img/Brick_4x3_OpAmp_LM358.jpg)|**Brick_4x3_OpAmp_LM358**:|OpAmp LM358 provides two operational amplifiers.|
 |![Brick_4x3_Relay_5V_HJR_4102E](img/Brick_4x3_Relay_5V_HJR_4102E.jpg)|**Brick_4x3_Relay_5V_HJR_4102E**:|Relay HJR 4102E, 5V type.|
 |![Brick_4x3_Speaker_AL_23P](img/Brick_4x3_Speaker_AL_23P.jpg)|**Brick_4x3_Speaker_AL_23P**:|Miniature 8 Ohm loudspeaker AL-23P.|
@@ -51,16 +50,18 @@ The following is an overview of the available building blocks. The list may be i
 |![Brick_6x4_MotionSensor_HC_SR501](img/Brick_6x4_MotionSensor_HC_SR501.jpg)|**Brick_6x4_MotionSensor_HC_SR501**:|Motion sensor HC-SR501.|
 |![Brick_6x5_D1mini](img/Brick_6x5_D1mini.jpg)|**Brick_6x5_D1mini**:|D1mini microcontroller board with WiFi support.|
 |![Brick_6x5_DFPlayer](img/Brick_6x5_DFPlayer.jpg)|**Brick_6x5_DFPlayer**:|DFPlayer MP3 player.|
-|![Brick_7x3_DIP_14](img/Brick_7x3_DIP_14.jpg)|**Brick_7x3_DIP_14**:|DIP-14 chip socket to be populated by the customer.|
+|![Brick_7x3_DIP_14](img/Brick_7x3_DIP_14.jpg)|**Brick_7x3_DIP_14**:|DIP-14 chip socket to be populated by the customer. The two terminals marked "T" provide a tunnel connection below the socket. An optional snap-on cover allows for the attachment of a label showing the chip's pin layout. Available versions: DIP-8, DIP-14, DIP-16, DIP-18.|
 |![Brick_7x3_HexInverter_CD74HCT](img/Brick_7x3_HexInverter_CD74HCT.jpg)|**Brick_7x3_HexInverter_CD74HCT**:|HexInverter and Schmitt trigger CD74HCT.|
 |![Brick_8x3_ADC_MCP3008](img/Brick_8x3_ADC_MCP3008.jpg)|**Brick_8x3_ADC_MCP3008**:|8-channel ADC MCP3008, SPI interface.|
-|![Brick_8x3_DIP_16](img/Brick_8x3_DIP_16.jpg)|**Brick_8x3_DIP_16**:|DIP-16 chip socket to be populated by the customer.|
 |![Brick_8x3_Multiplexer_CD4051B](img/Brick_8x3_Multiplexer_CD4051B.jpg)|**Brick_8x3_Multiplexer_CD4051B**:|8-channel multiplexer. This module can be used as a switch to select between eight signals.|
 |![Brick_8x8_Breadboard](img/Brick_8x8_Breadboard.jpg)|**Brick_8x8_Breadboard**:|This brick provides a small breadboard. You can set up small circuits or plug in chips or breakout boards (e.g. micro controller boards like D1mini or alike). You can select the breadboard strips you want to use on the brick connectors by connecting them to the female sockets (black colored on two sides of the brick in the picture) using standard breadboard jumper cables.|
-|![Brick_9x3_DIP_18](img/Brick_9x3_DIP_18.jpg)|**Brick_9x3_DIP_18**:|DIP-18 chip socket to be populated by the customer.|
 |![Brick_9x3_PortExpander_MCP23008](img/Brick_9x3_PortExpander_MCP23008.jpg)|**Brick_9x3_PortExpander_MCP23008**:|8-channel port expander, I2C interface.|
-|![Brick_9x5_RaspberryPico](img/Brick_9x5_RaspberryPico.jpg)|**Brick_9x5_RaspberryPico**:|Microcontroller Raspberry Pico or Raspberry Pico W (the latter with WiFi support).|
+|![Brick_9x5_RaspberryPicoW](img/Brick_9x5_RaspberryPicoW.jpg)|**Brick_9x5_RaspberryPicoW**:|Microcontroller Raspberry Pico W. Available variants: Raspberry Pico, Raspberry Pico W (the latter with WiFi-support)|
 |![Brick_10x1_WaterSensor](img/Brick_10x1_WaterSensor.jpg)|**Brick_10x1_WaterSensor**:|A simple sensor for measuring the water level in a glass of water.|
+| <nobr>Please note: brick layouts may change</nobr> | | |
+
+---
+
 
 
 Copyright (c) 2024-2026 sun9qd

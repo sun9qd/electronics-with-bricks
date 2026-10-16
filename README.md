@@ -10,7 +10,7 @@ This project presents an electronic construction kit on 8 mm studded base panel,
 
 *The latest project built with the construction kit:*
 
-A miniature amplifier circuit using the LM386 integrated power amplifier, in accordance with the recommendations in the product datasheet.
+A miniature audio amplifier circuit using the LM386 integrated power amplifier, in accordance with the recommendations in the product datasheet.
 
 ![Latest project](Applications/Amplifier_LM386/img/Amplifier_LM386_Operation.jpg)
 
@@ -41,9 +41,7 @@ The repository is structured as follows:
 - **Applications/** contains a number of experiments built with the kit
 - **Bricks/** contains an overview of the available bricks
 - **Kits/** presents several construction kits with varying assortments of building blocks
-- **OldApplications/** contains applications with previous version of the kit
-- **OldBundles/** contains bundles with previous version of the kit
-- **Resources/** contains the resources for reproducing the bricks (STL and Gerber files) and a description how to do that (coming soon)
+- **Resources/** contains the resources for reproducing the bricks (BOM, STL and Gerber files, software) and a description how to do that (coming soon)
 
 ---
 
