@@ -58,7 +58,7 @@ The following is an overview of the available building blocks. The list may be i
 |![Brick_9x3_PortExpander_MCP23008](img/Brick_9x3_PortExpander_MCP23008.jpg)|**Brick_9x3_PortExpander_MCP23008**:|8-channel port expander, I2C interface.|
 |![Brick_9x5_RaspberryPicoW](img/Brick_9x5_RaspberryPicoW.jpg)|**Brick_9x5_RaspberryPicoW**:|Microcontroller Raspberry Pico W. Available variants: Raspberry Pico, Raspberry Pico W (the latter with WiFi-support)|
 |![Brick_10x1_WaterSensor](img/Brick_10x1_WaterSensor.jpg)|**Brick_10x1_WaterSensor**:|A simple sensor for measuring the water level in a glass of water.|
-| <nobr>Please note: brick layouts may change</nobr> | | |
+|![Brick_Layouts_may_change](img/Brick_Layouts_may_change.jpg)| Please note: brick layouts may change | |
 
 ---
 
