@@ -20,6 +20,19 @@ https://cdn-reichelt.de/documents/datenblatt/A200/LM386.pdf
 
 ---
 
+An add-on allows for switching to an external speaker. This enables good sound quality, whereas the internal small speaker does not meet high standards.
+
+*External Speaker Support:*
+
+![Amplifier_LM386_ExtSpeaker](img/Amplifier_LM386_ExtSpeaker.jpg)
+
+
+*Rear View:*
+
+![Amplifier_LM386_RearView](img/Amplifier_LM386_RearView.jpg)
+
+---
+
 Copyright (c) 2024-2026 sun9qd
 
 
