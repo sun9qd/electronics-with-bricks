@@ -6,11 +6,14 @@
 
 This project presents an electronic construction kit on 8 mm studded base panel, compatible with standard systems, supporting numerous analog and digital components. From this various analog and digital circuits can be built.
 
+## ➡️ The construction principle
+of the modular system is described here: [Resources/SystemPrinciple](Resources/SystemPrinciple/README.md).
+
 ---
 
 *The latest project built with the construction kit:*
 
-A miniature audio amplifier circuit using the LM386 integrated power amplifier, in accordance with the recommendations in the product datasheet.
+A miniature audio amplifier circuit using the LM386 integrated power amplifier, in accordance with the recommendations in the product datasheet. Details can be found at [Applications/Amplifier_LM386](Applications/Amplifier_LM386/README.md).
 
 ![Latest project](Applications/Amplifier_LM386/img/Amplifier_LM386_Operation.jpg)
 
@@ -45,7 +48,8 @@ The repository is structured as follows:
 
 ---
 
-## 🔎 For an initial impression, feel free to use the *Try It!* demo set.
+## 🔎 For an initial impression
+feel free to use the *Try It!* demo set.
 You can find a description of the DIY downloads and assembly instructions at [Resources/DIY-Guide](Resources/DIY_Guide/README.md).
 
 ---
