@@ -41,7 +41,12 @@ The repository is structured as follows:
 - **Applications/** contains a number of experiments built with the kit
 - **Bricks/** contains an overview of the available bricks
 - **Kits/** presents several construction kits with varying assortments of building blocks
-- **Resources/** contains the resources for reproducing the bricks (BOM, STL and Gerber files, software) and a description how to do that (coming soon)
+- **Resources/** contains the resources for reproducing the bricks (BOM, STL and Gerber files, software)
+
+---
+
+## 🔎 For an initial impression, feel free to use the *Try It!* demo set.
+You can find a description of the DIY downloads and assembly instructions at [Resources/DIY-Guide](Resources/DIY_Guide/README.md).
 
 ---
 
