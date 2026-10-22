@@ -24,12 +24,15 @@ An add-on allows for switching to an external speaker. This enables good sound q
 
 *External Speaker Support:*
 
-![Amplifier_LM386_ExtSpeaker](img/Amplifier_LM386_ExtSpeaker.jpg)
+![Amplifier_LM386_ExtSpeaker](img/Amplifier_LM386_HousingPreparation.jpg)
 
+---
 
-*Rear View:*
+*Building an enclosure made of standard bricks:*
 
-![Amplifier_LM386_RearView](img/Amplifier_LM386_RearView.jpg)
+| | |
+| :--- | :--- |
+|![Amplifier_LM386_HousingFront](img/Amplifier_LM386_HousingFront.jpg)|![Amplifier_LM386_HousingRear](img/Amplifier_LM386_HousingRear.jpg)|
 
 ---
 

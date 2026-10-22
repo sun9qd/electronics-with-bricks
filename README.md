@@ -15,7 +15,7 @@ of the modular system is described here: [Resources/SystemPrinciple](Resources/S
 
 A miniature audio amplifier circuit using the LM386 integrated power amplifier, in accordance with the recommendations in the product datasheet. Details can be found at [Applications/Amplifier_LM386](Applications/Amplifier_LM386/README.md).
 
-![Latest project](Applications/Amplifier_LM386/img/Amplifier_LM386_Operation.jpg)
+![Latest project](Applications/Amplifier_LM386/img/Amplifier_LM386_HousingPreparation.jpg)
 
 ---
 
