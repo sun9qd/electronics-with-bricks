@@ -2,6 +2,8 @@
 
 This directory contains resources for replicating the components of the electronics construction kit. Please observe the license provided for this repository.
 
+Upload of KiCAD and OpenSCAD sources is in preparation.
+
 Please note that use is at your own risk.
 
 
