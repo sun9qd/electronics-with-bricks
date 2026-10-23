@@ -22,6 +22,12 @@ The bill of materials for reproduction of this kit (including references to the 
 
 ---
 
+A description how to assemble the TryIt! kit is available at
+
+[Resources/DIY_Guide](../../Resources/DIY_Guide/README.md)
+
+---
+
 Copyright (c) 2024-2026 sun9qd
 
 
