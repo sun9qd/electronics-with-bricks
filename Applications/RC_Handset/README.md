@@ -46,7 +46,9 @@ An optional battery pack is available for the remote control handset; it can be 
 
 *Battery pack:*
 
-![RC_Handset_Battery](img/RC_Handset_Battery.jpg)
+| | |
+| :--- | :--- |
+|![RC_Handset_Battery](img/RC_Handset_Battery.jpg)|![RC_Handset_Complete](img/RC_Handset_Complete.jpg)|
 
 ---
 
