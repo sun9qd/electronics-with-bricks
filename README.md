@@ -13,9 +13,9 @@ of the modular system is described here: [Resources/SystemPrinciple](Resources/S
 
 *The latest project built with the construction kit:*
 
-A miniature audio amplifier circuit using the LM386 integrated power amplifier, in accordance with the recommendations in the product datasheet. Details can be found at [Applications/Amplifier_LM386](Applications/Amplifier_LM386/README.md).
+Remote controllable MP3 player supports play/pause, select song and adjust volume. Details can be found at [Applications/RC_MP3Player](Applications/RC_MP3Player/README.md).
 
-![Latest project](Applications/Amplifier_LM386/img/Amplifier_LM386_HousingPreparation.jpg)
+![Latest project](Applications/RC_MP3Player/img/RC_MP3Player_System.jpg)
 
 ---
 
